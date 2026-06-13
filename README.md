@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Junior Full Stack Developer** con ambición y proyección hacia proyectos que tengan impacto real. Llevo desarrollando desde el 15 de agosto de 2023 — construyendo, aprendiendo y creciendo cada día.
+Soy un **Junior Full Stack Developer** con ambición y proyección hacia proyectos que tengan impacto real. Llevo desarrollando desde el 15 de Febrero de 2023 — construyendo, aprendiendo y creciendo cada día.
 
 - 🚀 Apasionado por el ecosistema JS moderno y la web
 - 🌱 Profundizando en arquitecturas escalables y buenas prácticas
