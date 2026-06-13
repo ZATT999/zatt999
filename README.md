@@ -9,7 +9,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zatt999mc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZATT999)
 
 </div>
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Junior Full Stack Developer** con ambición y proyección hacia proyectos que tengan impacto real. Llevo **2 años y 10 meses** desarrollando desde el 15 de agosto de 2023 — construyendo, aprendiendo y creciendo cada día.
+Soy un **Full Stack Developer** con ambición y proyección hacia proyectos que tengan impacto real. Llevo **2 años y 10 meses** desarrollando desde el 15 de agosto de 2023 — construyendo, aprendiendo y creciendo cada día.
 
 - 🚀 Apasionado por el ecosistema JS moderno y la web
 - 🌱 Profundizando en arquitecturas escalables y buenas prácticas
