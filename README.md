@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Junior Full Stack Developer** con ambición y proyección hacia proyectos que tengan impacto real. Llevo desarrollando desde el 15 de Febrero de 2023 — construyendo, aprendiendo y creciendo cada día.
+Soy un **Junior Full Stack Developer** con ambición y proyección hacia proyectos que tengan impacto real. Llevo **2 años y 10 meses** desarrollando desde el 15 de agosto de 2023 — construyendo, aprendiendo y creciendo cada día.
 
 - 🚀 Apasionado por el ecosistema JS moderno y la web
 - 🌱 Profundizando en arquitecturas escalables y buenas prácticas
@@ -78,11 +78,17 @@ Creo que un buen desarrollador no solo escribe código — también piensa, lee 
 ## 🐧 I use Arch, btw
 
 ```bash
-$ neofetch
-  OS:     Arch Linux x86_64
-  Shell:  zsh
-  Editor: VS Code / Neovim
-  Status: siempre rompiendo y arreglando cosas ⚡
+$ fastfetch
+  OS:       Omarchy (Arch Linux) x86_64
+  Kernel:   Linux 7.0.10-1-cachyos
+  WM:       Hyprland 0.55.3 (Wayland)
+  Terminal: Alacritty
+  Theme:    Kanagawa 🎨
+  CPU:      Intel Xeon E5-2680 v4 @ 3.30 GHz (28 núcleos)
+  GPU:      AMD Radeon RX 5700 XT
+  RAM:      16 GiB
+  Packages: 1521 (pacman)
+  Status:   siempre rompiendo y arreglando cosas ⚡
 ```
 
 <br>
