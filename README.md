@@ -20,9 +20,11 @@
 |---|---|
 | 💻 Full Stack con enfoque en producto | 🚀 Buscando proyectos con impacto real |
 | 📈 En constante evolución técnica | 💼 Abierto a trabajo y freelance |
+ 
+---
+
 </div>
 
----
 
 ### Stack
 
